@@ -8,7 +8,7 @@ require (
 	github.com/moby/locker v1.0.1
 	github.com/sirupsen/logrus v1.9.2
 	github.com/stretchr/testify v1.8.1
-	golang.org/x/exp v0.0.0-20230515195305-f3d0a9c9a5cc
+	golang.org/x/exp v0.0.0-20230522175609-2e198f4a06a1
 	golang.org/x/time v0.3.0
 	k8s.io/api v0.27.2
 	k8s.io/apimachinery v0.27.2
