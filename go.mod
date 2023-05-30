@@ -7,7 +7,7 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/moby/locker v1.0.1
 	github.com/sirupsen/logrus v1.9.2
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.8.4
 	golang.org/x/exp v0.0.0-20230515195305-f3d0a9c9a5cc
 	golang.org/x/time v0.3.0
 	k8s.io/api v0.27.2
